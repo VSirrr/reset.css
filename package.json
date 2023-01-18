@@ -1,0 +1,32 @@
+{
+  "name": "@vsirrr/reset.css",
+  "version": "0.1.0",
+  "description": "CSS resets",
+  "main": "reset.css",
+  "files": [
+    "reset.css",
+    "README.md"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VSirrr/reset.css.git"
+  },
+  "keywords": [
+    "css",
+    "reset",
+    "reset.css",
+    "normalize",
+    "CSS resets",
+    "normalize.css"
+  ],
+  "author": "VSirrr",
+  "license": "Apache License",
+  "bugs": {
+    "url": "https://github.com/VSirrr/reset.css/issues"
+  },
+  "homepage": "https://github.com/VSirrr/reset.css#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
